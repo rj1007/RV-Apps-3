@@ -1,16 +1,14 @@
-YouTube-RV: 19.34.42  
-Photos-RV: 7.4.0.687342855  
+Music-RVX: 7.16.53  
+YouTube-RVX: 19.16.39  
 
 - [README](https://github.com/rj1007/RV-Apps-3/blob/main/README.md)  
 
 **Dependencies** 👇  
-CLI: j-hc/revanced-cli-4.6.0-all.jar  
-Integrations: ReVanced/revanced-integrations-1.16.0.apk  
-Patches: ReVanced/revanced-patches-4.17.0.jar  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.17.0)
-
-Integrations: ReVanced/revanced-integrations-1.16.0.apk  
-Patches: ReVanced/revanced-patches-4.17.0.jar    
+CLI: inotia00/revanced-cli-4.6.2-all.jar  
+Integrations: inotia00/revanced-integrations-1.15.1-dev.4.apk  
+Patches: inotia00/revanced-patches-4.15.1-dev.4.jar  
+[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v4.15.1-dev.4)  
 
 **Skipped** 👇  
-Patches: inotia00/revanced-patches-4.15.1-dev.3.jar        
+Patches: ReVanced/revanced-patches-4.17.0.jar  
+Patches: ReVanced/revanced-patches-4.17.0.jar      
